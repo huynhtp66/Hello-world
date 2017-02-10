@@ -1,3 +1,3 @@
 # Hello-world
-Hello world project
+Hello world project.
 This is a test
